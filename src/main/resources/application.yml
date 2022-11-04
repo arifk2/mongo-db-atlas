@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://mkhan339:mkhan339@cluster0.p6pb7t8.mongodb.net/?retryWrites=true&w=majority
+      database: altasian
